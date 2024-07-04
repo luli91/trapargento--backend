@@ -1,0 +1,8 @@
+comando para activar el enotorno virtual
+$ source venv/Scripts/activate
+
+Comando para instalar paquetes
+$ py -m pip install
+
+comando para actualizar requierments cada vez que instalo una libreria
+$ pip freeze requirements.txt
